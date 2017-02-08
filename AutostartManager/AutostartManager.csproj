@@ -55,6 +55,7 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
+    <None Include="AutostartManager.nuspec" />
     <None Include="packages.config" />
     <None Include="_CreateNewNuGetPackage\Config.ps1" />
     <None Include="_CreateNewNuGetPackage\DoNotModify\CreateNuGetPackage.ps1" />
